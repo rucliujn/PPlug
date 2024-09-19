@@ -27,3 +27,4 @@ pip install tokenizers>=0.12.1
 pip install transformers>=4.38.0
 pip install evaluate
 pip install deepspeed==0.13.1
+pip install rank_bm25
